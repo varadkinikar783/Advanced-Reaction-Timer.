@@ -20,7 +20,7 @@ This project is a direct extension of **[Reaction Timer with EEPROM Score Histor
 
 Instead of reacting to a single LED, one of three LEDs is chosen randomly every round. After a short countdown and a random delay, the chosen LED flashes briefly. Press the button corresponding to that LED as quickly as possible.
 
-Pressing any reaction button before the LED flashes counts as cheating and immediately ends the round. Every valid reaction time is stored in EEPROM, and a dedicated History button lets you view your previous scores directly from memory without reconnecting to a computer.
+Pressing any reaction button before the LED flashes counts as cheating and immediately ends the round. Every valid reaction time is stored in EEPROM, and a dedicated History button lets you view your previous scores directly from memory on the serial monitor.
 
 ---
 
