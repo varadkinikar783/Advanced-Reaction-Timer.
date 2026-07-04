@@ -12,7 +12,7 @@ Watch demo video.
 
 # Built On
 
-This project is a direct extension of **Reaction Timer with EEPROM Score History** — an earlier build that measured reaction time using a single button and stored the last ten scores in EEPROM. That project solved accurate timing, EEPROM storage, random delays and cheat detection. This version takes the idea further by replacing the Serial interface with physical controls, adding three reaction targets, introducing menu navigation, and managing the entire game through a simple state machine.
+This project is a direct extension of **[Reaction Timer with EEPROM Score History](https://github.com/varadkinikar783/Reaction-Timer-with-EEPROM-Score-History)** — an earlier build that measured reaction time using a single button and stored the last ten scores in EEPROM. That project solved accurate timing, EEPROM storage, random delays and cheat detection. This version takes the idea further by replacing the Serial interface with physical controls, adding three reaction targets, introducing menu navigation, and managing the entire game through a simple state machine.
 
 ---
 
